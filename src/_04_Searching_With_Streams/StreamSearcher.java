@@ -22,6 +22,10 @@ public class StreamSearcher {
 			}
 		});
 		//4. Return the count of the filtered stream.
+		
+		int test = 3;
+		
 		return list.count();
+		
 	}
 }
